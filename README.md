@@ -65,3 +65,4 @@ Las librerías necesarias para ejecutar este proyecto son:
     3.  El espectro de magnitud en frecuencia de la señal.
 "# final-1" 
 "# final-1" 
+"# final-1" 
